@@ -1,0 +1,17 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Obj]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider generated files
+*.csproj
+*.sln
+*.dotSettings
+.vs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
