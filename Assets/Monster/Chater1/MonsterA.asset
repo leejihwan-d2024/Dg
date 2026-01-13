@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18a1195bbcef6ba4bb920b9ba75f40a4, type: 3}
+  m_Name: MonsterA
+  m_EditorClassIdentifier: 
+  monsterName: DownBoy
+  monsterPrefab: {fileID: 2285375786281137575, guid: 2a287a09f5768ce4493f2b8f67f344c9, type: 3}
+  dungeonGroup: 0
